@@ -1,0 +1,10 @@
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+scikit-learn>=1.6,<2
+shap>=0.47,<1
+pandas>=2.2,<3
+numpy>=2,<3
+joblib>=1.4,<2
+reportlab>=4.3,<5
+pytest>=8,<10
+httpx>=0.28,<1
